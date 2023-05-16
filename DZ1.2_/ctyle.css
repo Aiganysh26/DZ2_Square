@@ -1,0 +1,17 @@
+.bigBlock {
+  position: relative;
+  /* background-color: #e780cd; */
+  border: 1px black solid;
+  width: 500px;
+  height: 500px;
+}
+.smallBlock {
+  position: absolute;
+  background-color: #7acde2;
+  width: 50px;
+  height: 50px;
+  /* left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0; */
+}
